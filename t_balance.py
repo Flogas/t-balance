@@ -107,3 +107,4 @@ for i in range(len(output)):
   else:
     output2 += output[i]
 print(output2)
+input('Нажмите Enter для выхода\n')
